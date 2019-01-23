@@ -1,0 +1,58 @@
+
+
+Radiographe xample:
+	- tall versus wide data
+	- laeblled
+	- how much data for unsupervised learning?
+
+Student example: unsupervised clustering
+	- based on: citation
+	- meniton personalised medicine
+
+My example: image extraction
+	- easy to do deep learning (tools are available e.g. TensforFlow)
+	- if: good training data (what is good: well labelled, large volume)
+	- time is spent in data prepartaion
+	- point is: not how do we do this stuff, but what data have we got and what questions can it answer
+
+
+Causality issue: worth touching on!
+	"Algorithms may be good at predict-
+	ing outcomes, but predictors are
+	not causes. 3" 
+	(good medical example of high qulaity predcitions with no idea about causation?)
+
+	- spurious correlations (give funny examples)
+	- p-value problem
+
+Machine learning basics to touch on:
+	- difference between machine learning and other algorithms (e.g. expert systems)
+	- features
+	- feautre space
+	- black box model (what in the box)
+	- supervised versus unsupervised (semi-supervised)
+	- deep learning
+	- validation and testing
+	- missing data (information in missingness) and bias
+	- NLP
+
+	- more subtle stuff:
+		> algorithms that shit where they eat
+		> reinforcing pre-existing biases/divisions 
+
+	- current hot stuff:
+		> transfer learning
+		> explainability, fairness..?
+		> gans
+		> noisy labels
+
+Three ways machine learning will impact healthcare:
+	- prognosis (and risk) scores
+	- replace much work of radiologists and anatomical pathologists
+		> interpreting imaing and test results	
+		> and real-time wave form data 
+	- improve diagnosis (slower)
+
+Is Bablyon health an expert system?
+
+
